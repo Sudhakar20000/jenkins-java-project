@@ -46,7 +46,7 @@
                 <version>3.3.2</version> <!-- Use the latest version -->
                 <configuration>
                     <!-- Add your war plugin configuration here if needed -->
-                </configuration>
+                   </configuration>
             </plugin>
         </plugins>
     </build>
@@ -70,7 +70,6 @@
         </pluginRepository>
     </pluginRepositories>
 </project>
-
 
 
      
